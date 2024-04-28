@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6946bea5b1747fe6",
+        "id": "3f1c4ffb4a2851ae",
         "type": "tabs",
         "children": [
           {
-            "id": "65850403ddf1af99",
+            "id": "ecda80ffa7294952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cards/永久笔记/sed命令+正则表达式批量替换.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cards/永久笔记/sed命令+正则表达式批量替换.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Cards/永久笔记/sed命令+正则表达式批量替换.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cards/永久笔记/sed命令+正则表达式批量替换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cards/永久笔记/sed命令+正则表达式批量替换.md"
               }
             }
           }
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 265.5
   },
   "right": {
     "id": "b04bae835715e106",
@@ -249,11 +249,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -282,34 +282,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65850403ddf1af99",
+  "active": "ecda80ffa7294952",
   "lastOpenFiles": [
-    "Redis.md",
-    "未命名.md",
-    "交换机.md",
-    "Sources/About Sources.md",
-    "使用说明.md",
-    "Sources/System/Linux配置文件.md",
-    "Sources/System/Linux目录一般含义.md",
-    "Sources/System/Archlinux.md",
-    "Sources/Courses/面试现场-白海飞/如何让你的简历更受青睐.md",
-    "Sources/Courses/面试现场-白海飞/现在的你，到底该不该换工作.md",
-    "Sources/Courses/人文社科通识/金融学/∑ 金融学.md",
-    "Sources/Courses/人文社科通识/心理学/常见心理学效应/安慰剂效应.md",
-    "Sources/Courses/人文社科通识/心理学/常见心理学效应/拆屋效应.md",
-    "Sources/Courses/人文社科通识/心理学/常见心理学效应/登门槛效应.md",
-    "Sources/Courses/人文社科通识/心理学/常见心理学效应/∑ 常见心理学效应.md",
-    "Sources/Courses/面试现场-白海飞/想要成功面试，先要弄懂面试过程.md",
-    "Sources/Courses/面试现场-白海飞/如何有效地准备一场面试.md",
-    "Sources/Courses/面试现场-白海飞/面试官的面试逻辑是什么.md",
-    "Sources/Courses/面试现场-白海飞/公司到底想要什么样的人.md",
-    "Sources/Courses/面试现场-白海飞/§ 面试现场 - 白海飞.md",
-    "🍀 花园导览/🍀 花园导览.md",
-    "🍀 花园导览/🏋 如何保持健康.md",
-    "🍀 花园导览/👓 如何高效学习.md",
-    "🍀 花园导览/🗜 效率工具使用.md",
-    "Spaces/1-Project/第二大脑建设专题/Introduction The Promise of a Second Brain - 介绍：第二大脑的远景.md",
-    "Spaces/1-Project/第二大脑建设专题/What Is a Second Brain？ - 第二大脑是什么？.md",
+    "Cards/永久笔记/shell 常用命令行操作.md",
+    "Cards/永久笔记/sed命令+正则表达式批量替换.md",
+    "Cards/永久笔记/obsidian入门.md",
+    "Cards/永久笔记/🪞饱汉不知饿汉饥.md",
+    "Cards/永久笔记/🔡SWOT.md",
+    "Cards/永久笔记/RSS.md",
+    "Cards/永久笔记/RSSHub.md",
+    "Cards/永久笔记/信息茧房.md",
+    "Cards/永久笔记/产品形态是app还是网页版的取舍.md",
+    "Cards/永久笔记/✨真的猛士，敢于直面惨淡的人生。——鲁迅.md",
+    "0-INDEX.md",
+    "Cards/永久笔记/反向链接.md",
+    "Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/Obsidian.md",
+    "Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/2023-08-13整理给老妹的必备好网站.md",
+    "Cards/永久笔记/Youtube.md",
+    "Spaces/3-Resource/效率工具与服务专题/好用网站集锦/∑ 好用网站.md",
+    "Sources/Videos/» 视频笔记工作流.md",
+    "Sources/Videos/downie.md",
+    "Cards/永久笔记/zsh.md",
+    "Cards/永久笔记/z命令.md",
+    "Cards/永久笔记/ohmyzsh.md",
+    "Cards/永久笔记/obsidian 图谱自定义css.md",
+    "Cards/永久笔记/obsidian 搜索技巧.md",
+    "Cards/永久笔记/obsidian 让我爱不释手的功能和细节.md",
+    "Cards/永久笔记/Obsidian 不适合做什么以及其补足配合的软件.md",
+    "Cards/永久笔记/obsidian 笔记文件批量重命名.md",
+    "Sources/Guide/Git",
+    "Sources/Guide",
     "Pasted image 20240404192948.png",
     "Atlas/Draws/README 中的头图 - 图.light.svg",
     "Atlas/Draws/README 中的头图 - 图.dark.svg",
@@ -333,8 +335,6 @@
     "Atlas/Dashborads/Untitled 1.loom",
     "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
     "Sources/Courses/心理学与生活",
-    "Spaces/0-Work/ack集群引入istio服务网格的技术调研.docx",
-    "Spaces/0-Work/Daily notes/算法安全自评估制度建设.docx",
     "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
     "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
     "未命名.canvas",

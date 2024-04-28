@@ -1,15 +1,18 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "隐藏LICENSE文件和logseq文件夹",
     "custom-theme"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "translucency": false,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "0xProto Nerd Font",
+  "interfaceFontFamily": "0xProto Nerd Font",
+  "monospaceFontFamily": "0xProto Nerd Font"
 }

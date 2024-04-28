@@ -409,5 +409,14 @@
       ],
       "key": "["
     }
+  ],
+  "obsidian-shellcommands:shell-command-vnphwuno3u": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

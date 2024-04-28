@@ -43,3 +43,7 @@ jumps:: [[Notion]]
 ## 参考文献
 
 相关问答大集合。[如何使用Obsidian软件？ - 知乎](https://www.zhihu.com/question/401972085/answer/2520330932?utm_campaign=&utm_medium=social&utm_oi=627815471005831168&utm_psn=1547145735178776576&utm_source=cn.ticktick.task)
+
+Obsidian小技巧。[玩转 Obsidian 01：打造知识循环利器](https://sspai.com/post/62414)
+
+主页:[[0-INDEX|Go Back]]
