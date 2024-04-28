@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "隐藏LICENSE文件和logseq文件夹",
+    "custom-theme"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false
+}
