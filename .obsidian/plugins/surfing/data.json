@@ -19,7 +19,7 @@
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
   "openInSameTab": false,
-  "showRefreshButton": false,
+  "showRefreshButton": true,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
@@ -28,7 +28,7 @@
   "randomBackground": true,
   "lastOpenedFiles": false,
   "bookmarkManager": {
-    "openBookMark": false,
+    "openBookMark": true,
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",

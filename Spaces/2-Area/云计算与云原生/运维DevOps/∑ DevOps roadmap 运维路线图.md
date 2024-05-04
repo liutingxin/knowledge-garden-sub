@@ -36,7 +36,7 @@ tags:
 - 学习实际操作
 	- 操作系统
 		- [[Windows]]
-		- [[Linux目录一般含义]]
+		- [[Linux Directory]]
 			- [[Ubuntu]]
 			- [[Debian]]
 			- [[SUSE linux]]

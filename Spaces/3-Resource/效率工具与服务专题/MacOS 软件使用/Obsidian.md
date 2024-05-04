@@ -16,9 +16,17 @@ jumps:: [[Notion]]
 
 [[本库使用时遵守的核心原则]]
 
+[Obsidian中文教程](https://publish.obsidian.md/chinesehelp/03+%E6%95%99%E7%A8%8B/%E5%88%9D%E9%98%B6%E6%95%99%E7%A8%8B%EF%BC%88MOC%EF%BC%89)
+
 [[如果要我安利obsidian给别人，我会怎么做]]
 
 [[obsidian 是可以用一辈子不换的笔记软件吗]]
+
+---
+
+[[Obsidian个人教程]]
+
+---
 
 ## 技巧
 
@@ -27,6 +35,12 @@ jumps:: [[Notion]]
 [[obsidian的中括号搜索的技巧]]
 
 [[obsidian做presentation展示的方法技巧]]
+
+[文件/文件夹MOC实现快捷打开指定文件/文件夹 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/502)
+
+[[AHK-AutoHotKey#什么是AutoHotkey]]
+
+[【已解决】如何设置自动隐藏状态栏 - 疑问解答 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/23044)
 
 ## 其他
 

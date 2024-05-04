@@ -4,7 +4,6 @@
   "switcher",
   "graph",
   "backlink",
-  "canvas",
   "outgoing-link",
   "tag-pane",
   "properties",
@@ -14,9 +13,9 @@
   "note-composer",
   "command-palette",
   "bookmarks",
+  "random-note",
   "outline",
   "word-count",
   "workspaces",
-  "file-recovery",
-  "publish"
+  "file-recovery"
 ]

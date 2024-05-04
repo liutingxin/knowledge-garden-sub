@@ -40,14 +40,16 @@ aliases:
 
 ![](https://img.oldwinter.top/黑.png)
 
-## Usage
+## Kbd
 
 #### Media
 
 	<C-A> left: 视频后退两秒
 	<C-A> right: 视频前进两秒
 	<C-A> up: 打开视频文件	
-	<C-A> down: 视频暂停 
+	<C-A> down: 视频暂停
+	<C> down: 重置播放速度
+	<C-A-S> F: 全屏or退出
 
 ### Tag
 
